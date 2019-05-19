@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faetohhuo.gorilla-studios.com/sitemap.xml
